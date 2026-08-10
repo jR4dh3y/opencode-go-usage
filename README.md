@@ -16,9 +16,9 @@ Make sure you have the following command-line tools installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/opencode-go-usage.git
-   cd opencode-go-usage
-   chmod +x go-usage.sh
+git clone https://github.com/jR4dh3y/opencode-go-usage.git
+cd opencode-go-usage
+chmod +x go-usage.sh
    ```
 
 2. **Login and Setup:**
